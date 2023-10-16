@@ -1,13 +1,6 @@
-this is my first file
-
-git add
-git commit -m "first commit"
-push
+my first file 
 
 
-it is monday today.
-I have start work now
-
-
+again iam ready for work
 
 
